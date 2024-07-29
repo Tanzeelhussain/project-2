@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+table{
+    margin-left: 300px;
+    margin-right: 300px;
+    border:none;
+
+}
+.table_2{
+    margin-top: 90px;
+    border: none;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size:50px;
+}
+td{
+    text-align: center;
+    height:60px; 
+    border: 1px solid black;
+}
+.removal{
+    border: none;
+}
+.group_2{
+    background-color: aqua;
+}
+.transition_metals{
+    background-color:  rgb(231, 192, 255);
+}
+.greenish{
+    background-color: rgb(69, 211, 149);
+}
+.yellowish{
+    background-color: rgb(238, 238, 29);
+}
+.pinkish{
+    background-color: rgb(255, 192, 192);
+}
+.bluish{
+    background-color: rgb(19, 213, 210);
+}
+.lactinides{
+    background-color: rgb(248, 165, 10);
+}
+.Actinides{
+    background-color:bisque;
+}
